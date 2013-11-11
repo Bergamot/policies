@@ -52,8 +52,7 @@ Unacceptable‭ ‬behaviors‭ ‬include:‭ ‬intimidating,‭ ‬harassing,
 Harassment‭ ‬includes:‭ ‬harmful‭ ‬or‭ ‬prejudicial‭ ‬verbal‭ ‬or‭ ‬written‭
 ‬comments‭ ‬related‭ ‬to‭ ‬gender,‭ ‬sexual‭ ‬orientation,‭ ‬race,‭
 ‬religion,‭ ‬disability‭; ‬inappropriate‭ ‬use‭ ‬of‭ ‬nudity‭ ‬and/or‭
-‬sexual‭ ‬images‭ ‬in‭ ‬public‭ ‬spaces‭ (‬including‭ ‬presentation‭
-‬slides‭); ‬deliberate‭ ‬intimidation,‭ ‬stalking‭ ‬or‭ ‬following‭;
+‬sexual‭ ‬images‭; ‬deliberate‭ ‬intimidation,‭ ‬stalking‭ ‬or‭ ‬following‭;
 ‬harassing‭ ‬photography‭ ‬or‭ ‬recording‭; ‬sustained‭ ‬disruption‭ ‬of‭
 ‬talks‭ ‬or‭ ‬other‭ ‬events‭; ‬inappropriate‭ ‬physical‭ ‬contact,‭ ‬and‭
 ‬unwelcome‭ ‬sexual‭ ‬attention.
@@ -70,8 +69,7 @@ Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬i
 If‭ ‬a‭ ‬community‭ ‬member‭ ‬engages‭ ‬in‭ ‬unacceptable‭ ‬behavior,‭ ‬the‭
 ‬community‭ ‬organizers‭ ‬may‭ ‬take‭ ‬any‭ ‬action‭ ‬they‭ ‬deem‭
 ‬appropriate,‭ ‬up‭ ‬to‭ ‬and‭ ‬including‭ ‬a‭ ‬temporary‭ ‬ban‭ ‬or‭
-‬permanent‭ ‬expulsion‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭ (‬and‭
-‬without‭ ‬refund‭ ‬in‭ ‬the‭ ‬case‭ ‬of‭ ‬a‭ ‬paid‭ ‬event‭)‬.
+‬permanent‭ ‬expulsion‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭.
 
 ## 6.‎ ‏If‭ ‬You‭ ‬Witness‭ ‬or‭ ‬Are‭ ‬Subject‭ ‬to‭ ‬Unacceptable‭ ‬Behavior
 
@@ -91,13 +89,10 @@ Additionally,‭ ‬community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬t
 If‭ ‬you‭ ‬feel‭ ‬you‭ ‬have‭ ‬been‭ ‬falsely‭ ‬or‭ ‬unfairly‭ ‬accused‭ ‬of‭
 ‬violating‭ ‬this‭ ‬Code‭ ‬of‭ ‬Conduct,‭ ‬you‭ ‬should‭ ‬notify‭
 a Community Officer ‬with‭ ‬a‭ ‬concise‭ ‬description‭ ‬of‭ ‬your‭ ‬grievance.‭
-‬Your‭ ‬grievance‭ ‬will‭ ‬be‭ ‬handled‭ ‬in‭ ‬accordance‭ ‬with‭ ‬our‭
-‬existing‭ ‬governing‭ ‬policies.‭
 
 ## 8.‎ ‏Scope
 
-We‭ ‬expect‭ ‬all‭ ‬community‭ ‬participants‭ (‬contributors,‭ ‬paid‭ ‬or‭
-‬otherwise‭; ‬sponsors‭; ‬and‭ ‬other‭ ‬guests‭) ‬to‭ ‬abide‭ ‬by‭ ‬this‭
+We‭ ‬expect‭ ‬all‭ ‬community‭ ‬participants‭ ‬to‭ ‬abide‭ ‬by‭ ‬this‭
 ‬Code‭ ‬of‭ ‬Conduct‭ ‬in‭ ‬all‭ ‬community‭ ‬venues‭—‬online‭ ‬and‭ ‬in-
 person‭—‬as‭ ‬well‭ ‬as‭ ‬in‭ ‬all‭ ‬one-on-one‭ ‬communications‭ ‬pertaining‭
 ‬to‭ ‬community‭ ‬business.
