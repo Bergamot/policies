@@ -112,7 +112,7 @@ Joel Bernstein (bergamot@gmail.com, @CastIrony)
 This‭ ‬Code‭ ‬of‭ ‬Conduct‭ ‬is‭ ‬distributed‭ ‬under‭ ‬a‭ ‬[Creative‭
 ‬Commons‭ ‬Attribution-ShareAlike‭ ‬license](http://creativecommons.org/licenses/by-sa/3.0/)
 
-_Revision 1.0, adopted by the North Portland Coders Night on 11 November 2013.
+_Revision 1.0, adopted by the North Portland Coders Night on 11 November 2013._
 
-Modified from _Revision 2.0, adopted by the [Stumptown
+_Modified from Revision 2.0, adopted by the [Stumptown
 Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
