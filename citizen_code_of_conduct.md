@@ -2,7 +2,7 @@
 
 ## 1.‭ ‬Purpose
 
-A‭ ‬primary‭ ‬goal‭ ‬of‭ ‬COMMUNITY‭_‬NAME‭ ‬is‭ ‬to‭ ‬be‭ ‬inclusive‭ ‬to‭
+A‭ ‬primary‭ ‬goal‭ ‬of‭ the North Portland Coders Night ‬is‭ ‬to‭ ‬be‭ ‬inclusive‭ ‬to‭
 ‬the‭ ‬largest‭ ‬number‭ ‬of‭ ‬contributors,‭ ‬with‭ ‬the‭ ‬most‭ ‬varied‭
 ‬and‭ ‬diverse‭ ‬backgrounds‭ ‬possible.‭ ‬As‭ ‬such,‭ ‬we‭ ‬are‭ ‬committed‭
 ‬to‭ ‬providing‭ ‬a‭ ‬friendly,‭ ‬safe‭ ‬and‭ ‬welcoming‭ ‬environment‭ ‬for‭
@@ -14,7 +14,7 @@ This‭ ‬code‭ ‬of‭ ‬conduct‭ ‬outlines‭ ‬our‭ ‬expectatio
 ‬those‭ ‬who‭ ‬participate‭ ‬in‭ ‬our‭ ‬community,‭ ‬as‭ ‬well‭ ‬as‭ ‬the‭
 ‬consequences‭ ‬for‭ ‬unacceptable‭ ‬behavior.
 
-We‭ ‬invite‭ ‬all‭ ‬those‭ ‬who‭ ‬participate‭ ‬in‭ ‬COMMUNITY‭_‬NAME‭ ‬to‭
+We‭ ‬invite‭ ‬all‭ ‬those‭ ‬who‭ ‬participate‭ ‬in‭ the North Portland Coders Night ‬to‭
 ‬help‭ ‬us‭ ‬create‭ ‬safe‭ ‬and‭ ‬positive‭ ‬experiences‭ ‬for‭ ‬everyone.
 
 ## 2.‎ ‏Open‭ [‬Source/Culture/Tech‭] ‬Citizenship
@@ -77,7 +77,7 @@ If‭ ‬a‭ ‬community‭ ‬member‭ ‬engages‭ ‬in‭ ‬unacceptabl
 
 If‭ ‬you‭ ‬are‭ ‬subject‭ ‬to‭ ‬or‭ ‬witness‭ ‬unacceptable‭ ‬behavior,‭ ‬or‭
 ‬have‭ ‬any‭ ‬other‭ ‬concerns,‭ ‬please‭ ‬notify‭ ‬a‭ ‬community‭ ‬organizer‭
-‬as‭ ‬soon‭ ‬as‭ ‬possible.‭ [‬CONTACT‭_‬INFO‭_‬HERE‭]
+‬as‭ ‬soon‭ ‬as‭ ‬possible.‭ 
 
 Additionally,‭ ‬community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬to‭ ‬help‭
 ‬community‭ ‬members‭ ‬engage‭ ‬with‭ ‬local‭ ‬law‭ ‬enforcement‭ ‬or‭ ‬to‭
@@ -90,15 +90,9 @@ Additionally,‭ ‬community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬t
 
 If‭ ‬you‭ ‬feel‭ ‬you‭ ‬have‭ ‬been‭ ‬falsely‭ ‬or‭ ‬unfairly‭ ‬accused‭ ‬of‭
 ‬violating‭ ‬this‭ ‬Code‭ ‬of‭ ‬Conduct,‭ ‬you‭ ‬should‭ ‬notify‭
-‬GOVERNING‭_‬BODY‭ ‬with‭ ‬a‭ ‬concise‭ ‬description‭ ‬of‭ ‬your‭ ‬grievance.‭
+a Community Officer ‬with‭ ‬a‭ ‬concise‭ ‬description‭ ‬of‭ ‬your‭ ‬grievance.‭
 ‬Your‭ ‬grievance‭ ‬will‭ ‬be‭ ‬handled‭ ‬in‭ ‬accordance‭ ‬with‭ ‬our‭
-‬existing‭ ‬governing‭ ‬policies.‭ [‬LINK‭_‬TO‭_‬POLICY‭]
-
-[NOTE:‎ ‏Every‭ ‬organization‭'‬s‭ ‬governing‭ ‬policies‭ ‬should‭ ‬dictate‭
-‬how‭ ‬you‭ ‬handle‭ ‬warnings‭ ‬and‭ ‬expulsions‭ ‬of‭ ‬community‭ ‬members.‭
-‬It‭ ‬is‭ ‬strongly‭ ‬recommended‭ ‬that‭ ‬you‭ ‬mention‭ ‬those‭ ‬policies‭
-‬here‭ ‬or‭ ‬in‭ ‬Section‭ ‬7‭ ‬and‭ ‬that‭ ‬you‭ ‬include‭ ‬a‭ ‬mechanism‭
-‬for‭ ‬addressing‭ ‬grievances.‭]
+‬existing‭ ‬governing‭ ‬policies.‭
 
 ## 8.‎ ‏Scope
 
@@ -110,14 +104,18 @@ person‭—‬as‭ ‬well‭ ‬as‭ ‬in‭ ‬all‭ ‬one-on-one‭ ‬
 
 ## 9.‎ ‏Contact‭ ‬info
 
-‎[‏YOUR‭ ‬CONTACT‭ ‬INFO‭ ‬HERE‭ ‬--‭ ‬this‭ ‬should‭ ‬be‭ ‬a‭ ‬single‭
-‬person‭ ‬or‭ ‬a‭ ‬small‭ ‬team‭ ‬who‭ ‬can‭ ‬respond‭ ‬to‭ ‬issues‭
-‬directly‭]
+Community Officers:
+
+![Joel Bernstein](https://pbs.twimg.com/profile_images/378800000588300898/2c3dd0ae169e3b7be7e034961de6f2d8.jpeg)
+
+Joel Bernstein (bergamot@gmail.com, @CastIrony)
+
+(Another officer will be appointed shortly)
 
 ## 10.‎ ‏License‭ ‬and‭ ‬attribution
 
 This‭ ‬Code‭ ‬of‭ ‬Conduct‭ ‬is‭ ‬distributed‭ ‬under‭ ‬a‭ ‬[Creative‭
 ‬Commons‭ ‬Attribution-ShareAlike‭ ‬license](http://creativecommons.org/licenses/by-sa/3.0/)
 
-_Revision 2.0, adopted by the [Stumptown
+Modified from _Revision 2.0, adopted by the [Stumptown
 Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
